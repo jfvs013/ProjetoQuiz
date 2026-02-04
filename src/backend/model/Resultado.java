@@ -2,7 +2,7 @@ package backend.model;
 
 /**
  *
- * @author Jacson
+ * @author Jacson - Ray
  */
 public class Resultado {
 

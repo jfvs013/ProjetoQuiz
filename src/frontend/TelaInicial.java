@@ -8,7 +8,7 @@ import java.awt.*;
 import java.util.List;
 /**
  *
- * @author Jacson
+ * @author Jacson - Ray
  */
 public class TelaInicial extends JFrame {
     private JTextField campoNickname;

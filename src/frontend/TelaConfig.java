@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.*;
 /**
  *
- * @author Jacson
+ * @author Jacson - Ray
  */
 public class TelaConfig extends JFrame {
     private JSpinner spinnerQuantidade;

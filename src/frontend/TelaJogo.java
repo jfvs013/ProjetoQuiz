@@ -16,7 +16,7 @@ import java.util.Collections;
 import java.util.List;
 /**
  *
- * @author Jacson
+ * @author Jacson - Ray
  */
 public class TelaJogo extends JFrame {
 

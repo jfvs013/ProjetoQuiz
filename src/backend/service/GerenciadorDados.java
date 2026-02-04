@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 
 /**
  *
- * @author Jacson
+ * @author Jacson - Ray
  */
 public class GerenciadorDados {
 

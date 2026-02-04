@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Scanner;
 /**
  *
- * @author Jacson
+ * @author Jacson - Ray
  */
 public class RankingService {
 
